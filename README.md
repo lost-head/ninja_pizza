@@ -10,3 +10,5 @@ In this course, I'll take you from novice to ninja in PHP and MySQL, and along t
 Original: https://www.thenetninja.co.uk/courses/mysql-php-tutorial-for-beginners
 
 Github: https://github.com/iamshaunjp/php-mysql-tutorial
+
+just for testing
